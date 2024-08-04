@@ -1,0 +1,64 @@
+@font-face {
+  font-family: Cormorant;
+  font-style: normal;
+  font-weight: 400;
+  src: local('Cormorant'),
+    url('Cormorant-Regular.woff2') format('woff2'),
+    url('Cormorant-Regular.woff') format('woff'),
+    url('Cormorant-Regular.eot') format('eot');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Cormorant;
+  font-style: normal;
+  font-weight: 900;
+  src: local('Cormorant'),
+    url('Cormorant-Bold.woff2') format('woff2'),
+    url('Cormorant-Bold.woff') format('woff'),
+    url('Cormorant-Bold.eot') format('eot');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato'),
+    url('Lato-Regular.woff2') format('woff2'),
+    url('Lato-Regular.woff') format('woff'),
+    url('Lato-Regular.eot') format('eot');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 900;
+  src: local('Lato'),
+    url('Lato-Bold.woff2') format('woff2'),
+    url('Lato-Bold.woff') format('woff'),
+    url('Lato-Bold.eot') format('eot');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Lombardina;
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lombardina'),
+    url('Lombardina.woff2') format('woff2'),
+    url('Lombardina.woff') format('woff'),
+    url('Lombardina.eot') format('eot');
+  font-display: swap;
+}
+@font-face {
+  font-family: Fractur;
+  font-style: normal;
+  font-weight: 400;
+  src: local('Fractur'),
+    url('Fractur.woff2') format('woff2'),
+    url('Fractur.woff') format('woff'),
+    url('Fractur.eot') format('eot');
+  font-display: swap;
+}
